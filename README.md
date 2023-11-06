@@ -1,0 +1,2 @@
+# mendax
+My alias name.
